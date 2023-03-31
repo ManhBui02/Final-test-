@@ -1,0 +1,32 @@
+.App{
+    width: 300px;
+    background-color: white; 
+}
+#searchContainer{
+    padding: 8px 12px;
+    margin-bottom: 12px;
+}
+input{
+    outline: none;
+    border: none;
+    font-size: 18px;
+    padding: 8px 4px;
+    border-bottom: gray 1px solid;
+    width: 100%;
+}
+.weatherContainer{
+    padding: 8px 16px;
+}
+.weatherTitle{
+    font-size: 24px;
+    text-align: center;
+}
+.weatherImageWrap{
+    width: 200px;
+    margin: 0 auto;
+}
+.weatherTempurature{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
